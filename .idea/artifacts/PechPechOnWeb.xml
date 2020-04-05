@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PechPechOnWeb">
+    <output-path>$PROJECT_DIR$/out/artifacts/PechPechOnWeb</output-path>
+    <root id="archive" name="PechPechOnWeb.war">
+      <element id="artifact" artifact-name="PechPechOnWeb:war exploded" />
+    </root>
+  </artifact>
+</component>
